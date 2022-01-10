@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Malwina</h1>
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/wowermalwina/wowermalwina/4879d8d5f1bef773a8b40287512dd2ba1bdc1851/working_late.svg" height="200" />
 <h3 align="justify">I am a driven and committed technology enthusiast currently working as a full-time Junior Software Developer. Eager to learn and naturally curious. I enjoy solving problems, organising projects and working as a team.
-[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://linkedin.com/in/malwina-wower-23768b200)
-</p></h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
