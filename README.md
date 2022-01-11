@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Malwina</h1>
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/wowermalwina/wowermalwina/4879d8d5f1bef773a8b40287512dd2ba1bdc1851/working_late.svg" height="200" />
-<h3 align="justify">I am a driven and committed technology enthusiast currently working as a full-time Junior Software Developer. Eager to learn and naturally curious. I enjoy solving problems, organising projects and working as a team.
+<h3 align="justify">I am a driven and committed technology enthusiast currently working as a full-time Junior Software Developer. Eager to learn and naturally curious. I enjoy solving problems, organising projects and working as a team.<br />
 
 - 🌱 I’m currently focused on learning more within React
-- 📫 How to reach me: wowermalwina@gmail.com.
+- 📫 How to reach me: wowermalwina@gmail.com.<br />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
