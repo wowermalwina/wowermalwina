@@ -12,7 +12,7 @@ const malwina = {
   techCommunities: {
                         volunteer-instructor: "CodeFirstGirls",
                       },
-  challenge: "I am doing the #100DaysOfCode challenge focused on React and Typescript"
+  challenge: "I am doing the #100DaysOfCode challenge"
 }
 ```
 
