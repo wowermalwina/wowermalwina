@@ -6,14 +6,14 @@
 
 ```javascript
 const malwina = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Node, Jest, Docker],
+  pronouns: "she" || "her",
+  code: ["Javascript", "Typescript", "HTML", "CSS"],
+  tools: ["React", "Redux", "Node", "Jest", "Docker"],
   techCommunities: {
-                        volunteer-instructor: "CodeFirstGirls",
-                      },
+    "volunteer-instructor": "CodeFirstGirls"
+  },
   challenge: "I am doing the #100DaysOfCode challenge"
-}
+};
 ```
 
 ---
